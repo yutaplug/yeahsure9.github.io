@@ -1,4 +1,4 @@
-# How to set a custom background image/gif
+# How to set a custom background
 - Install [Themer](https://github.com/Vendicated/AliucordPlugins/raw/builds/Themer.zip) plugin
 - Install this [file manager](https://play.google.com/store/apps/details?id=me.zhanghai.android.files) & open it (or any file manager that lets you copy file paths)
 - Find the image/gif file
