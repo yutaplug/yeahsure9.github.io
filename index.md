@@ -1,4 +1,5 @@
 Unofficial [Aliucord](https://github.com/Aliucord) docs :3
+[More Aliucord docs](https://docs.meowery.eu/aliucord/Backported%20Features.html)
 
 # How to install Aliucord
 [Aliucord Manager installation guide](https://github.com/Aliucord/Manager#installation)
