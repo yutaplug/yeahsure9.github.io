@@ -12,9 +12,9 @@
 # How to use UserBG plugin
 - Make sure you have it installed
 - Join [UserBG server](https://discord.gg/TeRQEPb)
-- Read #usrbg-guide channel before proceeding
+- Read #usrbg-guide before proceeding
 - Use the /bg command in any channel that you can type in
 - Add the image/gif you want
-- Check #userbg-log channel to see if it has been accepted or not
+- Check #userbg-log to see if it has been accepted or not
 - Go to the plugin settings and click "Redownload databases"
 - Restart Aliucord to see the changes
