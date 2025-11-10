@@ -9,3 +9,4 @@ Unofficial [Aliucord](https://github.com/Aliucord) docs :3 (made it so i dont ha
 - [Plugin forks info](https://yutaplug.github.io/Aliucord/forks)
 - [Voice Chat situation](https://yutaplug.github.io/Aliucord/voicechat)
 - [UserPFP & UserBG guide](https://yutaplug.github.io/Aliucord/userpfpbg)
+- ["Failed to initialize Aliucord" workaround](https://yutaplug.github.io/Aliucord/initialize/)
