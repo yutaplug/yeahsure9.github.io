@@ -3,6 +3,8 @@
 ## How to install Aliucord
 [Aliucord Manager installation guide](https://github.com/Aliucord/Manager#installation)
 
+[Direct APK link](https://github.com/Aliucord/Manager/releases/download/v1.1.1/aliucord-manager-v1.1.1.apk)
+
 ## How to install Plugins
 [InstallPlugins.mp4](https://aliucord.com/files/tut/InstallPlugins.mp4)
 
