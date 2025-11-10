@@ -1,4 +1,4 @@
-# Fix opening of Discord links
+# Fix opening Discord links
 ## Samsung
 - Go to Settings app
 - Go to `Apps` section
