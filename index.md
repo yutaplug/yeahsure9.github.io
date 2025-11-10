@@ -13,3 +13,4 @@ Unofficial [Aliucord](https://aliucord.com) docs :3 (made it so i dont have to u
 - [UserPFP & UserBG guide](https://yutaplug.github.io/Aliucord/userpfpbg)
 - ["Failed to initialize Aliucord" workaround](https://yutaplug.github.io/Aliucord/initialize)
 - [Plugin searching guide](https://yutaplug.github.io/Aliucord/findplugins)
+- [Link opening fix](https://yutaplug.github.io/Aliucord/links)
