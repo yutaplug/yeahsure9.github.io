@@ -14,5 +14,3 @@ There's also a [PluginRepo](https://github.com/mantikafasi/AliucordPlugins/raw/b
 Installation: [Click this](https://github.com/mantikafasi/AliucordPlugins/raw/builds/PluginRepo.zip), it will download `PluginRepo.zip`, now move it to the `Aliucord/plugins` folder using a file manager & restart Aliucord.
 
 Usage: Open Aliucord settings, you will find a `Open Plugin Repo` button at the bottom (between App Settings & Aliucord sections, it's a bit buggy and it sometiems moves its position itself), now just simply click it and try searching for the plugin you want.
-
-![SearchBar](https://cdn.discordapp.com/stickers/1388961050719682635.png?size=16)
