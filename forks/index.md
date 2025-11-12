@@ -18,3 +18,5 @@ The forks can be installed [here](https://discord.com/channels/81125566699090740
 - SendEmbeds fork by Serinova makes the `/embed` command work again by using directwebhook (original api died)
  
 - PlayableEmbeds fork by Enovale makes the embeds playable for every website instead for YouTube & Spotify only
+
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fyutaplug.github.io%2FAliucord%2Fforks&label=&icon=eye&color=%23000&message=&style=flat&tz=UTC)
